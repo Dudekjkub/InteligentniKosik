@@ -8,7 +8,7 @@ const char* ssid = "uc17_IoT"; // Změňte za název vaší Wi-Fi sítě
 const char* password = "teleinformatika"; // Změňte za heslo vaší Wi-Fi sítě
 
 // MQTT nastavení
-const char* mqttServer = "TADY_NAPIŠTE_ADRESU_MQTT_SERVERU"; // Změňte za adresu vašeho MQTT serveru
+const char* mqttServer = ""; // Změňte za adresu vašeho MQTT serveru
 const int mqttPort = 1883;
 const char* mqttUser = "JDudek";
 const char* mqttPassword = "Cinkacka"; 
