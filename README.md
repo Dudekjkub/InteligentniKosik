@@ -9,14 +9,6 @@ jako je Firebase, a komunikuje pomocí protokolu MQTT
 Cílem projektu je vytvořit zařízení, které ulehčí proces nakupování a pomůže uživatelům s přesným měřením hmotnosti produktů v košíku,
 správou seznamu nakupovaných položek a sledováním celkové ceny nákupu.
 Zařízení bude také schopné komunikovat s chytrými telefony pomocí protokolu MQTT,
-což umožní uživatelům snadno přidávat produkty do košíku skenováním čárového kódu
-
-##Důvod nedokončení projektu
-
-Projekt se nepodařilo zrealizovat kvůli nečekané chybě v hardwaru,
-která způsobuje nestabilitu spojení mezi váhovým senzorem a mikrokontrolérem.
-Tato chyba se projevuje náhodnými výpadky v čtení hmotnosti produktů,
-což znesnadňuje správné fungování nákupního košíku a zabraňuje dosažení požadované úrovně spolehlivosti.
-Je možné, že s jiným senzorem nebo převodníkem by chyba nenastala.
+což umožní uživatelům snadno přidávat produkty do košíku skenováním čárového kódu.
 
 Dudek Jakub.
